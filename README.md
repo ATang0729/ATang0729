@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am writing a notebook to record my learning process of Linux and I wish this can help you with only one stop: https://hanxiaos-organization.gitbook.io/one-stop-linux-learning-and-operating-notes/wsl2-ubuntu20.04/install-pytorch-on-a-gpu-server
+I am writing a notebook to record my learning process of Linux and I wish this can help you with only one stop: https://hanxiaos-organization.gitbook.io/one-stop-linux-learning-and-operating-notes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATang0729&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
