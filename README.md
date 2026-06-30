@@ -4,6 +4,8 @@
 
 📰 [Click to view my resume here](https://atang0729.github.io/resume/)
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/ATang0729/svg?template=graph&tokens=compact&cost=compact)](https://tokscale.ai/u/ATang0729)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ATang0729&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
